@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jym126
-- 👀 I’m interested in python, java, JavaScript, PHP
-- 🌱 I’m currently learning Angular and nodeJS 
+- 👀 I’m interested in JavaScript, React, Nodejs and Python.
+- 🌱 I’m currently working on a personal project. 
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me, here on GitHub
 
